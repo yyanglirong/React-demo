@@ -1,0 +1,52 @@
+*{margin: 0;padding: 0;}
+.nav{
+    height: 50px;
+    background: #333;
+}
+.input{
+    width: 500px;
+    margin-left: 20px;
+}
+.content{
+    width: 600px;
+    margin-right: auto;
+    margin-left:auto;
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+.content p{
+    color: #fff;
+    font-size: 25px;
+    margin: 0;
+}
+.wrap{
+    width: 600px;
+    margin-right: auto;
+    margin-left:auto;
+}
+.font-1{
+    font-weight: 600;
+    color: #333;
+    font-size: 25px;
+}
+.pic{
+    width: 35px;
+    height: 35px;
+}
+.list-wrap{
+    display: flex;
+    align-items: center;
+    background: gainsboro;
+    margin-bottom: 10px;
+}
+.checked{
+    flex: 1;
+}
+.name{
+    flex:8;
+    margin: 0;
+}
+.det{
+    flex:1;
+}
